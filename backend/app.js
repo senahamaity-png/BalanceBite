@@ -17,6 +17,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://localhost:5174",
+      "https://balancebite-six.vercel.app",
     ],
   })
 );
